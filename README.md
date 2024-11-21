@@ -1,7 +1,5 @@
 # alimran
 
-Theme Description
-Alimran Theme
 The Alimran WordPress Theme is a fully responsive, SEO-friendly, and modern theme built using CSS Flexbox and WordPress best practices. It features custom post types, flexible page templates (index, page, archive, 404, full-width, etc.), and is WooCommerce compatible. This theme includes advanced customization options via the WordPress Customizer, enabling users to set logo, typography, colors, and button styles effortlessly. With its mobile-friendly design, dropdown menus, and clean aesthetics, the Alimran theme is perfect for blogs, businesses, and e-commerce websites.
 
 How to Install the Theme
