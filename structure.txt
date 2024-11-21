@@ -1,0 +1,26 @@
+alimran/
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── images/
+├── inc/
+│   ├── customizer.php
+│   ├── theme-functions.php
+│   ├── hooks.php
+├── template-parts/
+│   ├── header.php
+│   ├── footer.php
+│   └── content/
+├── languages/
+├── style.css
+├── functions.php
+├── index.php
+├── page.php
+├── 404.php
+├── search.php
+├── archive.php
+├── single.php
+├── comments.php
+├── fullwidth.php
+├── boxed.php
+└── screenshot.png
